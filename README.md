@@ -9,7 +9,7 @@
 * Graduate Teaching Assistant: Vinay KL
 * Office Hours:
     * 282 Life Science Building (LSB)
-    * [ADD]
+    * Fr 10:00 AM - 12:00 PM
 * For any other meeting times, please email.
 
 ## Course Description 📑
