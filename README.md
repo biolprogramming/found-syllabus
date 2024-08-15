@@ -223,7 +223,7 @@ I do not typically write recommendation letters for students in this class – e
 | Week	| Date	| Topic	                                                | Optional Chapter	| Assignment    |
 | ---   | ---   | ---                                                   | ---               | ---           |
 |1	    | 27 Aug| Intro + Operating and File Systems                    |                   |              	|	
-|	    | 29 Aug| Intro to Replit & The Command Line                    |                   |              	|
+|	    | 29 Aug| Intro to Github & The Command Line                    |                   |              	|
 |2	    | 03 Sep| Advanced Command Line		                            |                   | 1             | 
 |	    | 05 Sep| Basic Shell - Variables, Expressions, Loops           |                   |               |
 |3	    | 10 Sep| Advanced Shell - Flow, Conditional Statements	        |                   | 2             |
