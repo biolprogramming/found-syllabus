@@ -1,4 +1,4 @@
-# Foundations of Computing for Biologists
+# Foundations of Computing for Biologists 👩‍💻
 
 * Course: BIOL 4800/7800, LSU
 * Time/Location: T/Th, 9:00 - 10:20 AM | 0201 TUREAUD HALL
@@ -12,17 +12,17 @@
     * [ADD]
 * For any other meeting times, please email.
 
-## Course Description
+## Course Description 📑
 
 The analysis of large data sets in biological research is becoming common, particularly as new sequencing technologies and automated data collection strategies exponentially increase the amount of data that can be collected by an individual researcher. Different types of programmatic approaches are often needed to quality control, format, and analyze these large data sets, yet few biologists (particularly at the undergraduate level) receive any sort of training in computational approaches to these tasks.
 
 Foundations of Computing for Biologists is meant to introduce undergraduate and graduate students to various computing techniques that can be used to analyze biological data. As part of this course, we will cover several different modes of programming (command line interface/BASH, SQL, Python, R) as well as a variety of related topics that deal with modern computing.
 
-## Fair Warning…
+## Fair Warning… ⚠️
 
 This course is going to challenge and frustrate you. I promise. You are learning a whole slew of different approaches to working with computers – and several of those involve learning new (computing) languages. Along with the hard parts of learning several different types of languages in an abbreviated period, you will also have to learn a number of new tools that you have not (likely) been exposed to. That's also really hard. To top it all off, you're also going to have to do some significant problem solving. But, if you think, work hard, and collaborate with me and your classmates to understand what's going on, you will end up learning much, much more in a shorter period of time than you expected.
 
-## Teaching Philosophy / Communication
+## Teaching Philosophy / Communication 📞
 
 I'm here to introduce you to a variety of languages, techniques, and approaches that are used in computational analyses of data – sometimes called “Data Science”. It's up to you to learn how to make that work for you. My role is to provide guidance and direction and your role is to use that guidance and direction to get where you want/need to go. 
 
@@ -37,7 +37,7 @@ A wise person once said that "90% of programming is learning how to Google", and
 
 So, DO NOT use these sources without attribution (you can use code comments in your assignments for attribution of ideas – include the URL and author [if known]) and DO NOT depend on these sources as a crutch to help you succeed in this course. I will eventually start to notice if all of your assignments are using code from elsewhere. And, you will eventually suffer as we reach the middle to the end of the course.
 
-## Statement On Using Artificial Intelligence For Assignments
+## Statement On Using Artificial Intelligence For Assignments 🤖
 
 Artificial intelligence (AI) exists in lots of forms (GPT, Claude, Gemini, etc.), and these tools can be extremely useful for learning how to code, finding bugs in existing code, generally figuring out how stuff works, etc. For most of the assignments in this class, you can probably use artificial intelligence to get the answers to the various questions I'm posing - the skill level at which we are working in this course is simply not high enough to ask the types of questions that AI cannot answer well.
 
@@ -45,7 +45,7 @@ I'm not going to drastically limit your use of AI in the course. *BUT* I am goin
 
 Additionally, if you used some sort of AI to complete substantial parts of **every** assignment, then you're not really going to learn all that much about how the different tools we are covering REALLY work. And, if you are actually interersted in learning these tools, using AI as a crutch is not going to help you do that.
 
-## What You Should Be Doing Throughout The Course
+## What You Should Be Doing Throughout The Course 
 
 In a word: experimenting. The best way for you to learn what works is to try different things out. For example, if I tell you that you have a list containing [1,2,3,4] and ask you how to drop the last number, you should look up several ways that you might go about doing this and try those in the Python (on Replit [see below] or on your own computer). There are lots of solutions, like:
 ```
@@ -87,6 +87,7 @@ This is an R programming textbook. We will follow parts of it for the class when
 ## Other Sources of Information
 
 The following sources of information are ancillary to the texts listed above. They can still be useful, and all are definitely useful after you finish this course (and move to more advanced data science courses).
+
 ### Python Documentation
 
 * [html](https://docs.python.org/3.10/)
@@ -111,7 +112,7 @@ This is an introductory text for R that introduces some of the core concepts of 
 
 This is a textbook for R that is tailored a little more for Data Science and is slightly more advanced than some of the topics that we will cover. But, it’s a useful reference for now and in the future. It introduces a suite of R packges known as “tidyverse” that help you work with a variety of data.
 
-## Primary Languages For This Course, Github, and Github Codespaces
+## Primary Languages For This Course, Github, and Github Codespaces ⌨️
 
 * BASH
 * SQL
@@ -131,11 +132,11 @@ I have chosen to teach the class using these codespaces because it means we are 
 #. Codespaces work on a laptop, desktop, or tablet (for the most part, you just need a modern browser)
 #. Codespaces makes it easier to grade assignments, provide you with feedback, interact with you when writing code, etc.
 
-## Software License
+## Software License 🪪
 
 Licenses for different code/software project are important. I am releasing the contents of this course (e.g. all my notes, etc.) under an [open-source](https://en.wikipedia.org/wiki/Open_source) license ([BSD](https://en.wikipedia.org/wiki/BSD_licenses)).
 
-## Grading
+## Grading 💯
 
 In accordance with the LSU grading policy, grades will be assigned using an A-F scale and the +/- system. Grading is pretty simple:
 
@@ -157,15 +158,15 @@ That said, I understand that sometimes absences are inevitable. I will be puttin
 
 If you require accommodations, please ensure that I know about this so that I can make the appropriate arrangements that will help you be successful in this course. I am more than happy to work with you to ensure you will be successful.
 
-## Course overview
+## Course design
 
 The course will be a mix of lecture, in-class "active" learning, and individual assignments. That keeps it fun for all of us. You will be expected to contribute to discussions in class. Also, see [Commitment to Community and Academic Integrity]() regarding my expectations with respect to being civil to your classmates and doing your own work.
 
-## Lecture
+## Lecture 👩‍🏫 
 
 Some portions of our class will be lecture-based. These lectures will, for the most part, derive from the slides that I will post for you. I, of course, will elaborate on some items and focus less on others during class – as I feel they are appropriate. There will sometimes be associated reading that goes along with a lecture/focus area and it would be wise for you to read that assigned reading prior to coming to class. You may want to read the same chapter, again, after lecture. Repetition is one key to learning a new language efficiently.
 
-## Class assignments
+## Class assignments 📚
 
 There are 14 class assignments which are due every week, on Tuesday, before 9AM. To receive credit for those assignments, you will need to turn them in on time. Late assignments will receive a score of zero.
 
@@ -173,7 +174,7 @@ Assignment scores will post to moodle. The score that you receive on any given a
 
 For example, if I ask you to write a computer program to compute the value of the constant `e`, but you simply output the value of `math.e` (in Python) without specifically computing `e`, you will not receive credit for that portion of the assignment, because you have not correctly implemented the requested solution.
 
-## Exams
+## Exams 🧐
 
 You will have one exam associated with this class. This exam will occur during the final exam period and will likely be “in-class”. The exam will be comprehensive in the sense that you *could* probably use different functions of the languages we discuss in combination to accomplish the assignment.  But you might also be able just to do everythign in the exam in one language. 
 
@@ -181,7 +182,7 @@ The exam will be open-book (just like real life is open-book), but you will be r
 
 The types of questions on the exam may range from general ("Who was Ada Lovelace?") to specific ("What is the difference between an integer and a float? Why is a tuple better to hold data?"). There will be significant practical portion(s) of the exam where you need to go to use a Github Codespace to provide the answer. The exam will likely be challenging.
 
-## Extra Credit
+## Extra Credit 💸
 
 There are no assignments for extra credit in this course. BUT, here’s what I’ll do – right off the bat, I’ll give you 25 extra credit points – check moodle, they are already there.
 
@@ -201,7 +202,7 @@ In previous years, I caught several students in this course for plagiarizing –
 
 I will always assume the work you submit is your own, so you are responsible for its content.
 
-##  Working Together
+##  Working Together 👯
 
 You may ask your classmates about general ideas related to the course, and you are free to demonstrate to one another how this or that idea works. **HOWEVER**, you are expected to complete your assignments on your own, without help from anyone else. If you use other sources, please cite. If I determine that you are citing too many sources rather than doing your own work, your score for that assignment will indicate that you have not shown mastery of the material.
 
@@ -217,7 +218,7 @@ You should be familiar with the LSU Commitment to Community, which is outlined [
 
 I do not typically write recommendation letters for students in this class – even though this class is on the smaller side, it remains hard for me to interact with you in a way that ensures I write a meaningful letter of support. I write recommendation letters for those students who work in my laboratory because it gives me a chance to know them and write recommendations that have meaning. I suggest, if you think you will need a recommendation letter (e.g., for medical school), that you try and work directly with faculty members or faculty-led groups on campus so that these individuals or group supervisors can write meaningful recommendation letters for you.
 
-## Schedule
+## Schedule 📆
 
 | Week	| Date	| Topic	                                                | Optional Chapter	| Assignment    |
 | ---   | ---   | ---                                                   | ---               | ---           |
