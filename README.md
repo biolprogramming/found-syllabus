@@ -222,7 +222,7 @@ I do not typically write recommendation letters for students in this class – e
 
 | Week	| Date	| Topic	                                                | Optional Chapter	| Assignment    |
 | ---   | ---   | ---                                                   | ---               | ---           |
-|1	    | 27 Aug| Intro + Operating and File Systems                    |                   |              	|	
+|1	    | 27 Aug| [Intro + Operating and File Systems](https://www.dropbox.com/scl/fi/s9mqbdl71qnuri4wtxfbt/Lecture1.pdf?rlkey=rfl71lb2udjf02a9txb3pz23r&dl=0)                    |                   |              	|	
 |	    | 29 Aug| Intro to Github & The Command Line                    |                   |              	|
 |2	    | 03 Sep| Advanced Command Line		                            |                   | 1             | 
 |	    | 05 Sep| Basic Shell - Variables, Expressions, Loops           |                   |               |
