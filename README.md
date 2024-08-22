@@ -12,6 +12,13 @@
     * Fr 10:00 AM - 12:00 PM
 * For any other meeting times, please email.
 
+## Quick Links
+
+* [Moodle](https://moodle.lsu.edu)
+* [Schedule](https://github.com/biolprogramming/found-syllabus?tab=readme-ov-file#schedule-)
+* [Lecture Codespace](https://classroom.github.com/a/NMEUwNv_)
+
+
 ## Course Description 📑
 
 The analysis of large data sets in biological research is becoming common, particularly as new sequencing technologies and automated data collection strategies exponentially increase the amount of data that can be collected by an individual researcher. Different types of programmatic approaches are often needed to quality control, format, and analyze these large data sets, yet few biologists (particularly at the undergraduate level) receive any sort of training in computational approaches to these tasks.
