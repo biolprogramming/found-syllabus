@@ -6,7 +6,7 @@
 * Office Hours: 
     * 282 Life Science Building (LSB)
     * T/Th 10:30 - 12:00 PM
-* Graduate Teaching Assistant: Vinay KL
+* Graduate Teaching Assistant: Vinay KL (vkl1@lsu.edu)
 * Office Hours:
     * 282 Life Science Building (LSB)
     * Fr 10:00 AM - 12:00 PM
