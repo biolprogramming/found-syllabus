@@ -18,6 +18,42 @@
 * [Schedule](https://github.com/biolprogramming/found-syllabus?tab=readme-ov-file#schedule-)
 * [Lecture Codespace](https://classroom.github.com/a/NMEUwNv_)
 
+## Schedule 📆
+
+| Lecture	| Date	| Topic	                                                | Optional Chapter	| Assignment    |
+| ---   | ---   | ---                                                   | ---               | ---           |
+|1	    | 27 Aug| [Intro + Operating and File Systems](https://www.dropbox.com/scl/fi/s9mqbdl71qnuri4wtxfbt/Lecture1.pdf?rlkey=rfl71lb2udjf02a9txb3pz23r&dl=0)                    |                   |              	|	
+|2	    | 29 Aug| Intro to Github & The Command Line                    |                   |              	|
+|3	    | 03 Sep| Advanced Command Line		                            |                   | 1             | 
+|4	    | 05 Sep| Basic Shell - Variables, Expressions, Loops           |                   |               |
+|5	    | 10 Sep| Advanced Shell - Flow, Conditional Statements	        |                   | 2             |
+|6	    | 12 Sep| Code Editors & Regular Expressions		            |                   |               |
+|7	    | 17 Sep| Regular Expressions in the Shell		                |                   | 3             |
+|8	    | 19 Sep| Data, Data Formats, and Databases		                |                   |               |
+|9	    | 24 Sep| Advanced Databases                                    |                   | 4             |
+|10	    | 26 Sep| Python: Variables & Expressions                       | HTLCS 1 & 2       |               |
+|11	    | 01 Oct| Python: Functions Part 1                              | HTLCS 3           | 5             |
+|12	    | 03 Oct| Python: Conditional Statements                        | HTLCS 5           |               |
+|13	    | 08 Oct| Python: Functions Part 2 & Iteration                  | HTLCS 6 & 7	    | 6             |
+|14   	| 10 Oct| Python: Strings and Lists	                            | HTLCS 8 & 10	    |               |
+|15	    | 15 Oct| Python: Dictionaries and Tuples                       | HTLCS 11 & 12	    | 7             |
+|-	    | 17 Oct| Fall Holiday (NO CLASS)		                        |                   |               |
+|16	    | 22 Oct| The Kitchen Sink                                      |                   | 8             |
+|17	    | 24 Oct| Python: Getting Stuff In and Out		                |                   |               |
+|18	    | 29 Oct| Python: Reading and Writing Files	                    | HTLCS 14	        | 9             |
+|19      | 31 Oct| Python: Modules; Working With Databases		        |                   |               |
+|20	    | 05 Nov| Python: Visualization                                 |                   | 10            |
+|21   	| 07 Nov| Python: Pandas		                                |                   |               |
+|22	    | 12 Nov| R: Introduction, Differences from Python	            | TBR Intro; 1      | 11            |
+|23	    | 14 Nov| R: Numerics, Assignment, Vectors + Matrices & Arrays  | TBR 2 & 3	        |               |
+|24	    | 19 Nov| R: Non-numerics, Lists, Data Frames                   | TBR 4 & 5	        | 12            |
+|25	    | 21 Nov| R: Functions, Conditions, Loops                       | TBR 9 & 10	    |               |
+|26	    | 26 Nov| R: Packages, Files, Data Cleaning	                    | TBR 8	            | 13            |
+|-	    | 28 Nov| Thanksgiving (NO CLASS)		                        |                   |               |
+|27	    | 03 Dec| R: Visualization, Working With Databases	            | TBR 7             | 14            |
+|28       | 05 Dec| R: Visualization                                      |                   |               |		
+|-	| 11 Dec| FINAL Exam (150 points) 12:30 – 2:30 PM	            |                   |               |
+
 
 ## Course Description 📑
 
@@ -224,39 +260,3 @@ You should be familiar with the LSU Commitment to Community, which is outlined [
 ## Recommendation Letters
 
 I do not typically write recommendation letters for students in this class – even though this class is on the smaller side, it remains hard for me to interact with you in a way that ensures I write a meaningful letter of support. I write recommendation letters for those students who work in my laboratory because it gives me a chance to know them and write recommendations that have meaning. I suggest, if you think you will need a recommendation letter (e.g., for medical school), that you try and work directly with faculty members or faculty-led groups on campus so that these individuals or group supervisors can write meaningful recommendation letters for you.
-
-## Schedule 📆
-
-| Lecture	| Date	| Topic	                                                | Optional Chapter	| Assignment    |
-| ---   | ---   | ---                                                   | ---               | ---           |
-|1	    | 27 Aug| [Intro + Operating and File Systems](https://www.dropbox.com/scl/fi/s9mqbdl71qnuri4wtxfbt/Lecture1.pdf?rlkey=rfl71lb2udjf02a9txb3pz23r&dl=0)                    |                   |              	|	
-|2	    | 29 Aug| Intro to Github & The Command Line                    |                   |              	|
-|3	    | 03 Sep| Advanced Command Line		                            |                   | 1             | 
-|4	    | 05 Sep| Basic Shell - Variables, Expressions, Loops           |                   |               |
-|5	    | 10 Sep| Advanced Shell - Flow, Conditional Statements	        |                   | 2             |
-|6	    | 12 Sep| Code Editors & Regular Expressions		            |                   |               |
-|7	    | 17 Sep| Regular Expressions in the Shell		                |                   | 3             |
-|8	    | 19 Sep| Data, Data Formats, and Databases		                |                   |               |
-|9	    | 24 Sep| Advanced Databases                                    |                   | 4             |
-|10	    | 26 Sep| Python: Variables & Expressions                       | HTLCS 1 & 2       |               |
-|11	    | 01 Oct| Python: Functions Part 1                              | HTLCS 3           | 5             |
-|12	    | 03 Oct| Python: Conditional Statements                        | HTLCS 5           |               |
-|13	    | 08 Oct| Python: Functions Part 2 & Iteration                  | HTLCS 6 & 7	    | 6             |
-|14   	| 10 Oct| Python: Strings and Lists	                            | HTLCS 8 & 10	    |               |
-|15	    | 15 Oct| Python: Dictionaries and Tuples                       | HTLCS 11 & 12	    | 7             |
-|-	    | 17 Oct| Fall Holiday (NO CLASS)		                        |                   |               |
-|16	    | 22 Oct| The Kitchen Sink                                      |                   | 8             |
-|17	    | 24 Oct| Python: Getting Stuff In and Out		                |                   |               |
-|18	    | 29 Oct| Python: Reading and Writing Files	                    | HTLCS 14	        | 9             |
-|19      | 31 Oct| Python: Modules; Working With Databases		        |                   |               |
-|20	    | 05 Nov| Python: Visualization                                 |                   | 10            |
-|21   	| 07 Nov| Python: Pandas		                                |                   |               |
-|22	    | 12 Nov| R: Introduction, Differences from Python	            | TBR Intro; 1      | 11            |
-|23	    | 14 Nov| R: Numerics, Assignment, Vectors + Matrices & Arrays  | TBR 2 & 3	        |               |
-|24	    | 19 Nov| R: Non-numerics, Lists, Data Frames                   | TBR 4 & 5	        | 12            |
-|25	    | 21 Nov| R: Functions, Conditions, Loops                       | TBR 9 & 10	    |               |
-|26	    | 26 Nov| R: Packages, Files, Data Cleaning	                    | TBR 8	            | 13            |
-|-	    | 28 Nov| Thanksgiving (NO CLASS)		                        |                   |               |
-|27	    | 03 Dec| R: Visualization, Working With Databases	            | TBR 7             | 14            |
-|28       | 05 Dec| R: Visualization                                      |                   |               |		
-|-	| 11 Dec| FINAL Exam (150 points) 12:30 – 2:30 PM	            |                   |               |
