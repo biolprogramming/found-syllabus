@@ -24,7 +24,7 @@
 | ---   | ---   | ---                                                   | ---               | ---           |
 |1	    | 27 Aug| [Intro + Operating and File Systems](https://www.dropbox.com/scl/fi/s9mqbdl71qnuri4wtxfbt/Lecture1.pdf?rlkey=rfl71lb2udjf02a9txb3pz23r&dl=0)                    |                   |              	|	
 |[2](https://classroom.github.com/a/NMEUwNv_)	    | 29 Aug| Intro to Github & The Command Line                    |                   |              	|
-|3	    | 03 Sep| Advanced Command Line		                            |                   | 1             | 
+|3	    | 03 Sep| Advanced Command Line		                            |                   | [1](https://classroom.github.com/a/pcUahNcM)             | 
 |4	    | 05 Sep| Basic Shell - Variables, Expressions, Loops           |                   |               |
 |5	    | 10 Sep| Advanced Shell - Flow, Conditional Statements	        |                   | 2             |
 |6	    | 12 Sep| Code Editors & Regular Expressions		            |                   |               |
