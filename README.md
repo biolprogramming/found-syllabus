@@ -22,15 +22,15 @@
 
 | Lecture	| Date	| Topic	                                                | Optional Chapter	| Assignment    |
 | ---   | ---   | ---                                                   | ---               | ---           |
-|1	    | 27 Aug| [Intro + Operating and File Systems](https://www.dropbox.com/scl/fi/s9mqbdl71qnuri4wtxfbt/Lecture1.pdf?rlkey=rfl71lb2udjf02a9txb3pz23r&dl=0)                    |                   |              	|	
-|[2](https://classroom.github.com/a/NMEUwNv_)	    | 29 Aug| [Intro to Github & The Command Line](https://www.dropbox.com/scl/fi/1faxworvo31z6nm2uioun/Lecture2.pdf?rlkey=ldgy978ohn6swgnb2qe281fly&dl=0)                    |                   |              	|
-|[3](https://classroom.github.com/a/NMEUwNv_)	    | 03 Sep| Advanced Command Line (notes are in Codespace)		                            |                   | [1](https://classroom.github.com/a/pcUahNcM)             | 
-|4	    | 05 Sep| Basic Shell - Variables, Expressions, Loops           |                   |               |
-|5	    | 10 Sep| Advanced Shell - Flow, Conditional Statements	        |                   | 2             |
-|6	    | 12 Sep| Code Editors & Regular Expressions		            |                   |               |
-|7	    | 17 Sep| Regular Expressions in the Shell		                |                   | 3             |
-|8	    | 19 Sep| Data, Data Formats, and Databases		                |                   |               |
-|9	    | 24 Sep| Advanced Databases                                    |                   | 4             |
+|1	    | 27 Aug| [Intro + Operating and File Systems](https://www.dropbox.com/scl/fi/s9mqbdl71qnuri4wtxfbt/Lecture1.pdf?rlkey=rfl71lb2udjf02a9txb3pz23r&dl=0)                                                |                   |              	|	
+|[2](https://classroom.github.com/a/NMEUwNv_)	    | 29 Aug| [Intro to Github & The Command Line](https://www.dropbox.com/scl/fi/1faxworvo31z6nm2uioun/Lecture2.pdf?rlkey=ldgy978ohn6swgnb2qe281fly&dl=0)   |                   |              	|
+|[3](https://classroom.github.com/a/NMEUwNv_)	    | 03 Sep| Command Line (notes are in Codespace)		                                                                                                    |                   | [1](https://classroom.github.com/a/pcUahNcM)             | 
+|[4](https://classroom.github.com/a/NMEUwNv_)	    | 05 Sep| More Command Line (notes are in Codespace)                                                                                                     |                   |                 |
+|[5](https://classroom.github.com/a/NMEUwNv_)	    | 10 Sep| Basic Shell - Variables, Expressions, Loops	                                                                                                 |                   | [2](https://classroom.github.com/a/1B_-BZxa)             |
+|6	                                                 | 12 Sep| Advanced Shell - Flow, Conditional Statements		            |                   |               |
+|7	                                                 | 17 Sep| Code Editors & Regular Expressions		                |                   | 3             |
+|8	                                                 | 19 Sep| Regular Expressions in the Shell		                |                   |               |
+|9	                                                 | 24 Sep| Data, Data Formats, and Databases                                    |                   | 4             |
 |10	    | 26 Sep| Python: Variables & Expressions                       | HTLCS 1 & 2       |               |
 |11	    | 01 Oct| Python: Functions Part 1                              | HTLCS 3           | 5             |
 |12	    | 03 Oct| Python: Conditional Statements                        | HTLCS 5           |               |
