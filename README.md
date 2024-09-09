@@ -27,10 +27,10 @@
 |[3](https://classroom.github.com/a/NMEUwNv_)	    | 03 Sep| Command Line (notes are in Codespace)		                                                                                                    |                   | [1](https://classroom.github.com/a/pcUahNcM)             | 
 |[4](https://classroom.github.com/a/NMEUwNv_)	    | 05 Sep| More Command Line (notes are in Codespace)                                                                                                     |                   |                 |
 |[5](https://classroom.github.com/a/NMEUwNv_)	    | 10 Sep| Basic Shell - Variables, Expressions, Loops	                                                                                                 |                   | [2](https://classroom.github.com/a/1B_-BZxa)             |
-|6	                                                 | 12 Sep| Advanced Shell - Flow, Conditional Statements		            |                   |               |
-|7	                                                 | 17 Sep| Code Editors & Regular Expressions		                |                   | 3             |
-|8	                                                 | 19 Sep| Regular Expressions in the Shell		                |                   |               |
-|9	                                                 | 24 Sep| Data, Data Formats, and Databases                                    |                   | 4             |
+|[6](https://classroom.github.com/a/NMEUwNv_)	    | 12 Sep| Basic Shell - Variables, Expressions, Loops		                                                                                              |                   |               |
+|7	                                                 | 17 Sep| Advanced Shell - Flow, Conditional Statements		                                                                                              |                   | 3             |
+|8	                                                 | 19 Sep| Code Editors & Regular Expressions		                |                   |               |
+|9	                                                 | 24 Sep| Regular Expressions in the Shell                                    |                   | 4             |
 |10	    | 26 Sep| Python: Variables & Expressions                       | HTLCS 1 & 2       |               |
 |11	    | 01 Oct| Python: Functions Part 1                              | HTLCS 3           | 5             |
 |12	    | 03 Oct| Python: Conditional Statements                        | HTLCS 5           |               |
