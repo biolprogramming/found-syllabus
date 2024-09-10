@@ -24,34 +24,34 @@
 | ---   | ---   | ---                                                   | ---               | ---           |
 |1	    | 27 Aug| [Intro + Operating and File Systems](https://www.dropbox.com/scl/fi/s9mqbdl71qnuri4wtxfbt/Lecture1.pdf?rlkey=rfl71lb2udjf02a9txb3pz23r&dl=0)                                                |                   |              	|	
 |[2](https://classroom.github.com/a/NMEUwNv_)	    | 29 Aug| [Intro to Github & The Command Line](https://www.dropbox.com/scl/fi/1faxworvo31z6nm2uioun/Lecture2.pdf?rlkey=ldgy978ohn6swgnb2qe281fly&dl=0)   |                   |              	|
-|[3](https://classroom.github.com/a/NMEUwNv_)	    | 03 Sep| Command Line (notes are in Codespace)		                                                                                                    |                   | [1](https://classroom.github.com/a/pcUahNcM)             | 
-|[4](https://classroom.github.com/a/NMEUwNv_)	    | 05 Sep| More Command Line (notes are in Codespace)                                                                                                     |                   |                 |
-|[5](https://classroom.github.com/a/NMEUwNv_)	    | 10 Sep| Basic Shell - Variables, Expressions, Loops	                                                                                                 |                   | [2](https://classroom.github.com/a/1B_-BZxa)             |
-|[6](https://classroom.github.com/a/NMEUwNv_)	    | 12 Sep| Basic Shell - Variables, Expressions, Loops		                                                                                              |                   |               |
-|7	                                                 | 17 Sep| Advanced Shell - Flow, Conditional Statements		                                                                                              |                   | [3](https://classroom.github.com/a/1nlWvUu8)             |
-|8	                                                 | 19 Sep| Code Editors & Regular Expressions		                |                   |               |
-|9	                                                 | 24 Sep| Regular Expressions in the Shell                                    |                   | 4             |
-|10	    | 26 Sep| Python: Variables & Expressions                       | HTLCS 1 & 2       |               |
-|11	    | 01 Oct| Python: Functions Part 1                              | HTLCS 3           | 5             |
-|12	    | 03 Oct| Python: Conditional Statements                        | HTLCS 5           |               |
-|13	    | 08 Oct| Python: Functions Part 2 & Iteration                  | HTLCS 6 & 7	    | 6             |
-|14   	| 10 Oct| Python: Strings and Lists	                            | HTLCS 8 & 10	    |               |
-|15	    | 15 Oct| Python: Dictionaries and Tuples                       | HTLCS 11 & 12	    | 7             |
-|-	    | 17 Oct| Fall Holiday (NO CLASS)		                        |                   |               |
-|16	    | 22 Oct| The Kitchen Sink                                      |                   | 8             |
-|17	    | 24 Oct| Python: Getting Stuff In and Out		                |                   |               |
-|18	    | 29 Oct| Python: Reading and Writing Files	                    | HTLCS 14	        | 9             |
-|19      | 31 Oct| Python: Modules; Working With Databases		        |                   |               |
-|20	    | 05 Nov| Python: Visualization                                 |                   | 10            |
-|21   	| 07 Nov| Python: Pandas		                                |                   |               |
-|22	    | 12 Nov| R: Introduction, Differences from Python	            | TBR Intro; 1      | 11            |
-|23	    | 14 Nov| R: Numerics, Assignment, Vectors + Matrices & Arrays  | TBR 2 & 3	        |               |
-|24	    | 19 Nov| R: Non-numerics, Lists, Data Frames                   | TBR 4 & 5	        | 12            |
-|25	    | 21 Nov| R: Functions, Conditions, Loops                       | TBR 9 & 10	    |               |
-|26	    | 26 Nov| R: Packages, Files, Data Cleaning	                    | TBR 8	            | 13            |
-|-	    | 28 Nov| Thanksgiving (NO CLASS)		                        |                   |               |
-|27	    | 03 Dec| R: Visualization, Working With Databases	            | TBR 7             | 14            |
-|28       | 05 Dec| R: Visualization                                      |                   |               |		
+|[3](https://classroom.github.com/a/NMEUwNv_)	    | 03 Sep| Command Line (notes are in Codespace)         |                   | [1](https://classroom.github.com/a/pcUahNcM)  | 
+|[4](https://classroom.github.com/a/NMEUwNv_)	    | 05 Sep| More Command Line (notes are in Codespace)    |                   |                                               |
+|[5](https://classroom.github.com/a/NMEUwNv_)	    | 10 Sep| Basic Shell - Variables, Expressions, Loops   |                   |                                               |
+|[6](https://classroom.github.com/a/NMEUwNv_)	    | 12 Sep| Basic Shell - Variables, Expressions, Loops   |                   | [2](https://classroom.github.com/a/1B_-BZxa)  |
+|[7](https://classroom.github.com/a/NMEUwNv_)       | 17 Sep| Advanced Shell - Flow, Conditional Statements |                   | |
+|[8](https://classroom.github.com/a/NMEUwNv_)       | 19 Sep| Code Editors & Regular Expressions		    |                   | [3](https://classroom.github.com/a/1nlWvUu8)  |
+|[9](https://classroom.github.com/a/NMEUwNv_)       | 24 Sep| Regular Expressions in the Shell              |                   | |
+|10	    | 26 Sep| Python: Variables & Expressions                       | HTLCS 1 & 2       | 4              |
+|11	    | 01 Oct| Python: Functions Part 1                              | HTLCS 3           |              |
+|12	    | 03 Oct| Python: Conditional Statements                        | HTLCS 5           | 5              |
+|13	    | 08 Oct| Python: Functions Part 2 & Iteration                  | HTLCS 6 & 7	    |              |
+|14   	| 10 Oct| Python: Strings and Lists	                            | HTLCS 8 & 10	    | 6              |
+|15	    | 15 Oct| Python: Dictionaries and Tuples                       | HTLCS 11 & 12	    |              |
+|-	    | 17 Oct| Fall Holiday (NO CLASS)		                        |                   | 7              |
+|16	    | 22 Oct| The Kitchen Sink                                      |                   |              |
+|17	    | 24 Oct| Python: Getting Stuff In and Out		                |                   | 8              |
+|18	    | 29 Oct| Python: Reading and Writing Files	                    | HTLCS 14	        |              |
+|19      | 31 Oct| Python: Modules; Working With Databases		        |                   | 9              |
+|20	    | 05 Nov| Python: Visualization                                 |                   |             |
+|21   	| 07 Nov| Python: Pandas		                                |                   | 10              |
+|22	    | 12 Nov| R: Introduction, Differences from Python	            | TBR Intro; 1      |             |
+|23	    | 14 Nov| R: Numerics, Assignment, Vectors + Matrices & Arrays  | TBR 2 & 3	        | 11              |
+|24	    | 19 Nov| R: Non-numerics, Lists, Data Frames                   | TBR 4 & 5	        |             |
+|25	    | 21 Nov| R: Functions, Conditions, Loops                       | TBR 9 & 10	    | 12              |
+|26	    | 26 Nov| R: Packages, Files, Data Cleaning	                    | TBR 8	            |             |
+|-	    | 28 Nov| Thanksgiving (NO CLASS)		                        |                   | 13              |
+|27	    | 03 Dec| R: Visualization, Working With Databases	            | TBR 7             |             |
+|28       | 05 Dec| R: Visualization                                      |                 | 14               |		
 |-	| 11 Dec| FINAL Exam (150 points) 12:30 – 2:30 PM	            |                   |               |
 
 
