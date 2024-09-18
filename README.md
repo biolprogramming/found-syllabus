@@ -29,9 +29,9 @@
 |[5](https://classroom.github.com/a/NMEUwNv_)	    | 10 Sep| Basic Shell - Variables, Expressions, Loops   |                   |                                               |
 |[6](https://classroom.github.com/a/NMEUwNv_)	    | 12 Sep| Basic Shell - Variables, Expressions, Loops   |                   | [2](https://classroom.github.com/a/1B_-BZxa)  |
 |[7](https://classroom.github.com/a/NMEUwNv_)       | 17 Sep| Advanced Shell - Flow, Conditional Statements |                   | |
-|[8](https://classroom.github.com/a/NMEUwNv_)       | 19 Sep| Code Editors & Regular Expressions		    |                   | [3](https://classroom.github.com/a/1nlWvUu8)  |
-|[9](https://classroom.github.com/a/NMEUwNv_)       | 24 Sep| Regular Expressions in the Shell              |                   | |
-|10	    | 26 Sep| Python: Variables & Expressions                       | HTLCS 1 & 2       | 4              |
+|[8](https://classroom.github.com/a/NMEUwNv_)       | 19 Sep| Advanced Shell - Flow, Conditional Statements	|                   | [3](https://classroom.github.com/a/1nlWvUu8)  |
+|[9](https://classroom.github.com/a/NMEUwNv_)       | 24 Sep| Regular Expressions                           |                   |                                               |
+|10	    | 26 Sep| Python: Variables & Expressions                                                         | HTLCS 1 & 2       | [4](https://classroom.github.com/a/omAOrwX5)  |
 |11	    | 01 Oct| Python: Functions Part 1                              | HTLCS 3           |              |
 |12	    | 03 Oct| Python: Conditional Statements                        | HTLCS 5           | 5              |
 |13	    | 08 Oct| Python: Functions Part 2 & Iteration                  | HTLCS 6 & 7	    |              |
