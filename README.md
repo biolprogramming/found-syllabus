@@ -27,7 +27,7 @@
 |[3](https://classroom.github.com/a/NMEUwNv_)	    | 03 Sep| Command Line (notes are in Codespace)         |                   | [1](https://classroom.github.com/a/pcUahNcM)  | 
 |[4](https://classroom.github.com/a/NMEUwNv_)	    | 05 Sep| More Command Line (notes are in Codespace)    |                   |                                               |
 |[5](https://classroom.github.com/a/NMEUwNv_)	    | 10 Sep| Basic Shell - Variables, Expressions, Loops   |                   |                                               |
-|[6](https://classroom.github.com/a/NMEUwNv_)	    | 12 Sep| Basic Shell - Variables, Expressions, Loops   |                   | [2](https://classroom.github.com/a/1B_-BZxa)  |
+|[6](https://classroom.github.com/a/NMEUwNv_)	    | 12 Sep| (Class was cancelled - hurricane)             |                   | [2](https://classroom.github.com/a/1B_-BZxa)  |
 |[7](https://classroom.github.com/a/NMEUwNv_)       | 17 Sep| Advanced Shell - Flow, Conditional Statements |                   | |
 |[8](https://classroom.github.com/a/NMEUwNv_)       | 19 Sep| Advanced Shell - Flow, Conditional Statements	|                   | [3](https://classroom.github.com/a/1nlWvUu8)  |
 |[9](https://classroom.github.com/a/NMEUwNv_)       | 24 Sep| Regular Expressions                           |                   |                                               |
