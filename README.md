@@ -30,7 +30,7 @@
 |[6](https://classroom.github.com/a/NMEUwNv_)	    | 12 Sep| (Class was cancelled - hurricane)             |                   | [2](https://classroom.github.com/a/1B_-BZxa)  |
 |[7](https://classroom.github.com/a/NMEUwNv_)       | 17 Sep| Advanced Shell - Flow, Conditional Statements |                   | |
 |[8](https://classroom.github.com/a/NMEUwNv_)       | 19 Sep| Advanced Shell - Flow, Conditional Statements	|                   | [3](https://classroom.github.com/a/1nlWvUu8)  |
-|[9](https://classroom.github.com/a/NMEUwNv_)       | 24 Sep| Regular Expressions                           |                   |                                               |
+|[9](https://classroom.github.com/a/NMEUwNv_)       | 24 Sep| [Regular Expressions](https://www.dropbox.com/scl/fi/4rad18fkzkijc9365q9v0/Lecture9.pdf?rlkey=cmrdc7jlaz8hor9x84s2jseni&dl=0)                           |                   |                                               |
 |10	    | 26 Sep| Python: Variables & Expressions                                                         | HTLCS 1 & 2       | [4](https://classroom.github.com/a/omAOrwX5)  |
 |11	    | 01 Oct| Python: Functions Part 1                              | HTLCS 3           |              |
 |12	    | 03 Oct| Python: Conditional Statements                        | HTLCS 5           | 5              |
