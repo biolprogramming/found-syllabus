@@ -32,7 +32,7 @@
 |[8](https://classroom.github.com/a/NMEUwNv_)       | 19 Sep| Advanced Shell - Flow, Conditional Statements	|                   | [3](https://classroom.github.com/a/1nlWvUu8)  |
 |[9](https://classroom.github.com/a/NMEUwNv_)       | 24 Sep| [Regular Expressions](https://www.dropbox.com/scl/fi/4rad18fkzkijc9365q9v0/Lecture9.pdf?rlkey=cmrdc7jlaz8hor9x84s2jseni&dl=0)                           |                   |                                               |
 |[10](https://classroom.github.com/a/NMEUwNv_)	    | 26 Sep| [Python: Variables & Expressions](https://www.dropbox.com/scl/fi/9cjwmln6ba9e55dlq1ikp/Lecture10.pdf?rlkey=qcffx7jj9b5w23wcbgvao8nxy&dl=0)                                                         | HTLCS 1 & 2       | [4](https://classroom.github.com/a/omAOrwX5)  |
-|11	    | 01 Oct| Python: Functions Part 1                              | HTLCS 3           |              |
+|[11](https://classroom.github.com/a/NMEUwNv_)	    | 01 Oct| [Python: Functions Part 1](https://www.dropbox.com/scl/fi/tsrcifxjtzyj9e79htwd8/Lecture11.pdf?rlkey=mgla5iynh91saod09g0bogho8&dl=0)                              | HTLCS 3           |              |
 |12	    | 03 Oct| Python: Conditional Statements                        | HTLCS 5           | [5](https://classroom.github.com/a/BeT5MHlk)              |
 |13	    | 08 Oct| Python: Functions Part 2 & Iteration                  | HTLCS 6 & 7	    |              |
 |14   	| 10 Oct| Python: Strings and Lists	                            | HTLCS 8 & 10	    | 6              |
