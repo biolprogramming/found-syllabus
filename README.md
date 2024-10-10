@@ -35,9 +35,9 @@
 |[11](https://classroom.github.com/a/NMEUwNv_)	    | 01 Oct| [Python: Functions Part 1](https://www.dropbox.com/scl/fi/tsrcifxjtzyj9e79htwd8/Lecture11.pdf?rlkey=mgla5iynh91saod09g0bogho8&dl=0)                              | HTLCS 3           |              |
 |[12](https://classroom.github.com/a/NMEUwNv_)	    | 03 Oct| [Python: Conditional Statements](https://www.dropbox.com/scl/fi/3n6cp185azvw3laej7qky/Lecture12.pdf?rlkey=8v95s2tjmdc8ui0u98ja3br0f&dl=0)                        | HTLCS 5           | [5](https://classroom.github.com/a/BeT5MHlk)              |
 |[13](https://classroom.github.com/a/NMEUwNv_)	    | 08 Oct| [Python: Functions Part 2 & Iteration](https://www.dropbox.com/scl/fi/m4tnuaunu2rqv2ewkdw4c/Lecture13.pdf?rlkey=nesbrutan05whpg3a4si1z40o&dl=0)                  | HTLCS 6 & 7	    |              |
-|14   	| 10 Oct| Python: Strings and Lists	                            | HTLCS 8 & 10	    | [6](https://classroom.github.com/a/nnC4VKwG)              |
+|[14](https://classroom.github.com/a/NMEUwNv_)   	| 10 Oct| [Python: Strings and Lists](https://www.dropbox.com/scl/fi/zjrztkt3xvyfx6e4pf5nv/Lecture14.pdf?rlkey=be5eembk27dbyf5ez21z3wa81&dl=0)	                            | HTLCS 8 & 10	    | [6](https://classroom.github.com/a/nnC4VKwG)              |
 |15	    | 15 Oct| Python: Dictionaries and Tuples                       | HTLCS 11 & 12	    |              |
-|-	    | 17 Oct| Fall Holiday (NO CLASS)		                        |                   | 7              |
+|-	    | 17 Oct| Fall Holiday (NO CLASS)		                        |                   | [7](https://classroom.github.com/a/1lHcDGAo)              |
 |16	    | 22 Oct| The Kitchen Sink                                      |                   |              |
 |17	    | 24 Oct| Python: Getting Stuff In and Out		                |                   | 8              |
 |18	    | 29 Oct| Python: Reading and Writing Files	                    | HTLCS 14	        |              |
