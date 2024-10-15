@@ -39,7 +39,7 @@
 |[15](https://classroom.github.com/a/NMEUwNv_)   	| 15 Oct| [Python: Dictionaries and Tuples](https://www.dropbox.com/scl/fi/cn4fdzj7n3fqco6vjgd3y/Lecture15.pdf?rlkey=evp4pqunnxvxcdmkfhbz4pgtw&dl=0)                       | HTLCS 11 & 12	    |              |
 |-	    | 17 Oct| Fall Holiday (NO CLASS)		                        |                   |             |
 |16	    | 22 Oct| The Kitchen Sink                                      |                   | [7](https://classroom.github.com/a/1lHcDGAo)               |
-|17	    | 24 Oct| Python: Getting Stuff In and Out		                |                   | 8              |
+|17	    | 24 Oct| Python: Getting Stuff In and Out		                |                   | [8](https://classroom.github.com/a/8fcrAdMu)              |
 |18	    | 29 Oct| Python: Reading and Writing Files	                    | HTLCS 14	        |              |
 |19      | 31 Oct| Python: Modules; Working With Databases		        |                   | 9              |
 |20	    | 05 Nov| Python: Visualization                                 |                   |             |
