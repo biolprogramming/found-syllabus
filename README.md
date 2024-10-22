@@ -38,7 +38,7 @@
 |[14](https://classroom.github.com/a/NMEUwNv_)   	| 10 Oct| [Python: Strings and Lists](https://www.dropbox.com/scl/fi/zjrztkt3xvyfx6e4pf5nv/Lecture14.pdf?rlkey=be5eembk27dbyf5ez21z3wa81&dl=0)	                            | HTLCS 8 & 10	    | [6](https://classroom.github.com/a/nnC4VKwG)              |
 |[15](https://classroom.github.com/a/NMEUwNv_)   	| 15 Oct| [Python: Dictionaries and Tuples](https://www.dropbox.com/scl/fi/cn4fdzj7n3fqco6vjgd3y/Lecture15.pdf?rlkey=evp4pqunnxvxcdmkfhbz4pgtw&dl=0)                       | HTLCS 11 & 12	    |              |
 |-	    | 17 Oct| Fall Holiday (NO CLASS)		                        |                   |             |
-|16	    | 22 Oct| The Kitchen Sink                                      |                   | [7](https://classroom.github.com/a/1lHcDGAo)               |
+|[16](https://classroom.github.com/a/NMEUwNv_)	    | 22 Oct| [The Kitchen Sink](https://www.dropbox.com/scl/fi/3f3c3pvmi8yr3fj533b3m/Lecture16.pdf?rlkey=axyu7d7g829to4u1hbuvp26sj&dl=0)                                      |                   | [7](https://classroom.github.com/a/1lHcDGAo)               |
 |17	    | 24 Oct| Python: Getting Stuff In and Out		                |                   | [8](https://classroom.github.com/a/8fcrAdMu)              |
 |18	    | 29 Oct| Python: Reading and Writing Files	                    | HTLCS 14	        |              |
 |19      | 31 Oct| Python: Modules; Working With Databases		        |                   | 9              |
