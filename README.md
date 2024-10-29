@@ -40,7 +40,7 @@
 |-	    | 17 Oct| Fall Holiday (NO CLASS)		                        |                   |             |
 |[16](https://classroom.github.com/a/NMEUwNv_)	    | 22 Oct| [The Kitchen Sink](https://www.dropbox.com/scl/fi/3f3c3pvmi8yr3fj533b3m/Lecture16.pdf?rlkey=axyu7d7g829to4u1hbuvp26sj&dl=0)                                      |                   | [7](https://classroom.github.com/a/1lHcDGAo)               |
 |[17](https://classroom.github.com/a/NMEUwNv_)	    | 24 Oct| [Python: Getting Stuff In and Out](https://www.dropbox.com/scl/fi/jcy650e3uk6c3esln9jrj/Lecture17.pdf?rlkey=dmr8iddpo2vorm3bx1pwwamz1&dl=0)		                |                   | [8](https://classroom.github.com/a/8fcrAdMu)              |
-|18	    | 29 Oct| [Python: Reading and Writing Files](https://www.dropbox.com/scl/fi/dka0lj4lma2bxc1llwl3m/Lecture18.pdf?rlkey=wpt4k8jbdkqy29r6h71jzoo16&dl=0)	                    | HTLCS 14	        |              |
+|[18](https://classroom.github.com/a/NMEUwNv_)	    | 29 Oct| [Python: Reading and Writing Files](https://www.dropbox.com/scl/fi/dka0lj4lma2bxc1llwl3m/Lecture18.pdf?rlkey=wpt4k8jbdkqy29r6h71jzoo16&dl=0)	                    | HTLCS 14	        |              |
 |19      | 31 Oct| Python: Modules; Working With Databases		        |                   | [9](https://classroom.github.com/a/tljonZqJ)              |
 |20	    | 05 Nov| Python: Visualization                                 |                   |             |
 |21   	| 07 Nov| Python: Pandas		                                |                   | 10              |
