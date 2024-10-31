@@ -43,7 +43,7 @@
 |[18](https://classroom.github.com/a/NMEUwNv_)	    | 29 Oct| [Python: Reading and Writing Files](https://www.dropbox.com/scl/fi/dka0lj4lma2bxc1llwl3m/Lecture18.pdf?rlkey=wpt4k8jbdkqy29r6h71jzoo16&dl=0)	                    | HTLCS 14	        |              |
 |[19](https://classroom.github.com/a/NMEUwNv_)     | 31 Oct| [Python: Reading and Writing Files](https://www.dropbox.com/scl/fi/dka0lj4lma2bxc1llwl3m/Lecture18.pdf?rlkey=wpt4k8jbdkqy29r6h71jzoo16&dl=0)		        |                   | [9](https://classroom.github.com/a/tljonZqJ)              |
 |20	    | 05 Nov| Python: Modules, Numpy                                 |                   |             |
-|21   	 | 07 Nov| Python: Pandas		                                |                   | 10              |
+|21   	 | 07 Nov| Python: Pandas		                                |                   | [10](https://classroom.github.com/a/311K5qau)              |
 |22	    | 12 Nov| R: Introduction, Differences from Python	            | TBR Intro; 1      |             |
 |23	    | 14 Nov| R: Numerics, Assignment, Vectors + Matrices & Arrays  | TBR 2 & 3	        | 11              |
 |24	    | 19 Nov| R: Non-numerics, Lists, Data Frames                   | TBR 4 & 5	        |             |
