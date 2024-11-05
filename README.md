@@ -42,7 +42,7 @@
 |[17](https://classroom.github.com/a/NMEUwNv_)	    | 24 Oct| [Python: Getting Stuff In and Out](https://www.dropbox.com/scl/fi/jcy650e3uk6c3esln9jrj/Lecture17.pdf?rlkey=dmr8iddpo2vorm3bx1pwwamz1&dl=0)		                |                   | [8](https://classroom.github.com/a/8fcrAdMu)              |
 |[18](https://classroom.github.com/a/NMEUwNv_)	    | 29 Oct| [Python: Reading and Writing Files](https://www.dropbox.com/scl/fi/dka0lj4lma2bxc1llwl3m/Lecture18.pdf?rlkey=wpt4k8jbdkqy29r6h71jzoo16&dl=0)	                    | HTLCS 14	        |              |
 |[19](https://classroom.github.com/a/NMEUwNv_)     | 31 Oct| [Python: Reading and Writing Files](https://www.dropbox.com/scl/fi/dka0lj4lma2bxc1llwl3m/Lecture18.pdf?rlkey=wpt4k8jbdkqy29r6h71jzoo16&dl=0)		        |                   | [9](https://classroom.github.com/a/tljonZqJ)              |
-|20	    | 05 Nov| Python: Modules, Numpy                                 |                   |             |
+|[20](https://classroom.github.com/a/NMEUwNv_)	    | 05 Nov| [Python: Modules, Numpy](https://www.dropbox.com/scl/fi/hfrb7oxy27ov6md0y85d8/Lecture19.pdf?rlkey=gyeu8wd5y0qc005xq635f41bn&dl=0)                                 |                   |             |
 |21   	 | 07 Nov| Python: Pandas		                                |                   | [10](https://classroom.github.com/a/311K5qau)              |
 |22	    | 12 Nov| R: Introduction, Differences from Python	            | TBR Intro; 1      |             |
 |23	    | 14 Nov| R: Numerics, Assignment, Vectors + Matrices & Arrays  | TBR 2 & 3	        | 11              |
