@@ -43,9 +43,9 @@
 |[18](https://classroom.github.com/a/NMEUwNv_)	    | 29 Oct| [Python: Reading and Writing Files](https://www.dropbox.com/scl/fi/dka0lj4lma2bxc1llwl3m/Lecture18.pdf?rlkey=wpt4k8jbdkqy29r6h71jzoo16&dl=0)	                    | HTLCS 14	        |              |
 |[19](https://classroom.github.com/a/NMEUwNv_)     | 31 Oct| [Python: Reading and Writing Files](https://www.dropbox.com/scl/fi/dka0lj4lma2bxc1llwl3m/Lecture18.pdf?rlkey=wpt4k8jbdkqy29r6h71jzoo16&dl=0)		        |                   | [9](https://classroom.github.com/a/tljonZqJ)              |
 |[20](https://classroom.github.com/a/NMEUwNv_)	    | 05 Nov| [Python: Modules, Numpy](https://www.dropbox.com/scl/fi/hfrb7oxy27ov6md0y85d8/Lecture19.pdf?rlkey=gyeu8wd5y0qc005xq635f41bn&dl=0)                                 |                   |             |
-|21   	 | 07 Nov| Python: Pandas		                                |                   | [10](https://classroom.github.com/a/311K5qau)              |
+|[21](https://classroom.github.com/a/NMEUwNv_)   	 | 07 Nov| [Python: Pandas](https://www.dropbox.com/scl/fi/vq21pdladh3imhrgfzuns/Lecture20.pdf?rlkey=cgc0ownlwo1fqdjxlelb1ljqs&dl=0)		                                |                   | [10](https://classroom.github.com/a/311K5qau)              |
 |22	    | 12 Nov| R: Introduction, Differences from Python	            | TBR Intro; 1      |             |
-|23	    | 14 Nov| R: Numerics, Assignment, Vectors + Matrices & Arrays  | TBR 2 & 3	        | 11              |
+|23	    | 14 Nov| R: Numerics, Assignment, Vectors + Matrices & Arrays  | TBR 2 & 3	        | [11](https://classroom.github.com/a/EkJVIP5G)              |
 |24	    | 19 Nov| R: Non-numerics, Lists, Data Frames                   | TBR 4 & 5	        |             |
 |25	    | 21 Nov| R: Functions, Conditions, Loops                       | TBR 9 & 10	    | 12              |
 |26	    | 26 Nov| R: Packages, Files, Data Cleaning	                    | TBR 8	            |             |
