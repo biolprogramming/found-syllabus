@@ -46,7 +46,7 @@
 |[21](https://classroom.github.com/a/NMEUwNv_)   	 | 07 Nov| [Python: Pandas](https://www.dropbox.com/scl/fi/vq21pdladh3imhrgfzuns/Lecture20.pdf?rlkey=cgc0ownlwo1fqdjxlelb1ljqs&dl=0)		                                |                   | [10](https://classroom.github.com/a/311K5qau)              |
 |22	    | 12 Nov| [R: Introduction, Differences from Python](https://www.dropbox.com/scl/fi/cycr1kln22dk5nph3idc3/Lecture21.pdf?rlkey=s9pli53t1gfs6d3ui8tihbufv&dl=0)	            | TBR Intro; 1      |             |
 |23	    | 14 Nov| [R: Numerics, Assignment, Vectors + Matrices & Arrays](https://www.dropbox.com/scl/fi/9wmlvgbmmilmxoiv4vqbk/Lecture22.pdf?rlkey=b6r6v65yt90pe43g9b3lwm57i&dl=0)  | TBR 2 & 3	        | [11](https://classroom.github.com/a/EkJVIP5G)              |
-|24	    | 19 Nov| R: Non-numerics, Lists, Data Frames                   | TBR 4 & 5	        |             |
+|24	    | 19 Nov| [R: Non-numerics, Lists, Data Frames](https://www.dropbox.com/scl/fi/t80cfltvw7qrqfq8y6qx5/Lecture23.pdf?rlkey=33eu8ng928aunk8erj2a1seid&dl=0)                   | TBR 4 & 5	        |             |
 |25	    | 21 Nov| R: Functions, Conditions, Loops                       | TBR 9 & 10	    | [12](https://classroom.github.com/a/x2_0hbrZ)              |
 |26	    | 26 Nov| R: Packages, Files, Data Cleaning	                    | TBR 8	            |             |
 |-	    | 28 Nov| Thanksgiving (NO CLASS)		                        |                   | 13              |
