@@ -49,7 +49,7 @@
 |[24](https://classroom.github.com/a/NMEUwNv_)	    | 19 Nov| [R: Non-numerics, Characters](https://www.dropbox.com/scl/fi/t80cfltvw7qrqfq8y6qx5/Lecture23.pdf?rlkey=33eu8ng928aunk8erj2a1seid&dl=0)                   | TBR 4 & 5	        |             |
 |[25](https://classroom.github.com/a/NMEUwNv_)	    | 21 Nov| [R: Factors, Lists, Data Frames](https://www.dropbox.com/scl/fi/w8yhvrmys2le6z90xtrqa/Lecture24.pdf?rlkey=eydzr5him4jg6zi446w8xz78y&dl=0)                       | TBR 9 & 10	    | [12](https://classroom.github.com/a/x2_0hbrZ)              |
 |[26](https://classroom.github.com/a/NMEUwNv_)	    | 26 Nov| R: Packages, Files, Data Cleaning	                    | TBR 8	            |             |
-|-	    | 28 Nov| Thanksgiving (NO CLASS)		                        |                   | 13              |
+|-	    | 28 Nov| Thanksgiving (NO CLASS)		                        |                   | --              |
 |27	    | 03 Dec| R: Visualization, Working With Databases	            | TBR 7             |             |
 |28       | 05 Dec| R: Visualization                                      |                 | 14               |		
 |-	| 11 Dec| FINAL Exam (150 points) 12:30 – 2:30 PM	            |                   |               |
