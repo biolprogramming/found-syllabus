@@ -48,10 +48,10 @@
 |[23](https://classroom.github.com/a/NMEUwNv_)	    | 14 Nov| [R: Numerics, Assignment, Vectors + Matrices & Arrays](https://www.dropbox.com/scl/fi/9wmlvgbmmilmxoiv4vqbk/Lecture22.pdf?rlkey=b6r6v65yt90pe43g9b3lwm57i&dl=0)  | TBR 2 & 3	        | [11](https://classroom.github.com/a/EkJVIP5G)              |
 |[24](https://classroom.github.com/a/NMEUwNv_)	    | 19 Nov| [R: Non-numerics, Characters](https://www.dropbox.com/scl/fi/t80cfltvw7qrqfq8y6qx5/Lecture23.pdf?rlkey=33eu8ng928aunk8erj2a1seid&dl=0)                   | TBR 4 & 5	        |             |
 |[25](https://classroom.github.com/a/NMEUwNv_)	    | 21 Nov| [R: Factors, Lists, Data Frames](https://www.dropbox.com/scl/fi/w8yhvrmys2le6z90xtrqa/Lecture24.pdf?rlkey=eydzr5him4jg6zi446w8xz78y&dl=0)                       | TBR 9 & 10	    | [12](https://classroom.github.com/a/x2_0hbrZ)              |
-|[26](https://classroom.github.com/a/NMEUwNv_)	    | 26 Nov| R: Packages, Files, Data Cleaning	                    | TBR 8	            |             |
+|[26](https://classroom.github.com/a/NMEUwNv_)	    | 26 Nov| [R: Factors, Lists, Data Frames](https://www.dropbox.com/scl/fi/mqhkgj8r48wzpojsievzk/Lecture25.pdf?rlkey=uzt0aa7f6yiwwe18xt9lw4z5g&dl=0)	                    | TBR 8	            |             |
 |-	    | 28 Nov| Thanksgiving (NO CLASS)		                        |                   | --              |
 |27	    | 03 Dec| R: Visualization, Working With Databases	            | TBR 7             |             |
-|28       | 05 Dec| R: Visualization                                      |                 | 14               |		
+|28       | 05 Dec| R: Visualization                                      |                 | [13](https://classroom.github.com/a/0WtrDi0_)               |		
 |-	| 11 Dec| FINAL Exam (150 points) 12:30 – 2:30 PM	            |                   |               |
 
 
