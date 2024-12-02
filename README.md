@@ -49,9 +49,9 @@
 |[24](https://classroom.github.com/a/NMEUwNv_)	    | 19 Nov| [R: Non-numerics, Characters](https://www.dropbox.com/scl/fi/t80cfltvw7qrqfq8y6qx5/Lecture23.pdf?rlkey=33eu8ng928aunk8erj2a1seid&dl=0)                   | TBR 4 & 5	        |             |
 |[25](https://classroom.github.com/a/NMEUwNv_)	    | 21 Nov| [R: Factors, Lists, Data Frames](https://www.dropbox.com/scl/fi/w8yhvrmys2le6z90xtrqa/Lecture24.pdf?rlkey=eydzr5him4jg6zi446w8xz78y&dl=0)                       | TBR 9 & 10	    | [12](https://classroom.github.com/a/x2_0hbrZ)              |
 |[26](https://classroom.github.com/a/NMEUwNv_)	    | 26 Nov| [R: Factors, Lists, Data Frames](https://www.dropbox.com/scl/fi/mqhkgj8r48wzpojsievzk/Lecture25.pdf?rlkey=uzt0aa7f6yiwwe18xt9lw4z5g&dl=0)	                    | TBR 8	            |             |
-|-	    | 28 Nov| Thanksgiving (NO CLASS)		                        |                   | --              |
-|27	    | 03 Dec| R: Visualization, Working With Databases	            | TBR 7             |             |
-|28       | 05 Dec| R: Visualization                                      |                 | [13](https://classroom.github.com/a/0WtrDi0_)               |		
+|-	                                                | 28 Nov| Thanksgiving (NO CLASS)		                        |                   | --              |
+|27	                                                | 03 Dec| [R: Visualization](https://www.dropbox.com/scl/fi/if6girc8bmiorai6cpbn9/Lecture26.pdf?rlkey=xpg3a6oy8uq1brtgthfpyz5n0&dl=0)                      	            | TBR 7             |  [penguins.csv](https://www.dropbox.com/scl/fi/bekeazkl7u850i7g4h2wg/penguins.csv?rlkey=9fsran59yblr5zdng3ipxkhm6&dl=0) [birds.csv](https://www.dropbox.com/scl/fi/w6wcar4g8f7hfzrksqrtm/birds.csv?rlkey=ldba8ur048gvuslbhxexp6cxi&dl=0)                                                       |
+|28                                                 | 05 Dec| R: Visualization                                      |                 | [13](https://classroom.github.com/a/0WtrDi0_)               |		
 |-	| 11 Dec| FINAL Exam (150 points) 12:30 – 2:30 PM	            |                   |               |
 
 
