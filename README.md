@@ -126,8 +126,8 @@ This is a freely available textbook. We will follow parts of it for the class wh
 
 This is an R programming textbook. We will follow parts of it for the class when we discuss R. It is also an invaluable reference text when you need to remind yourself of relatively simple (and even complex) R details.
 
-* [pdf for BIOL4800](https://moodle.lsu.edu/mod/resource/view.php?id=2533347) (this is a moodle link)
-* [pdf for BIOL7800](https://moodle.lsu.edu/mod/resource/view.php?id=2533348) (this is a moodle link)
+* [pdf for BIOL4800](https://moodle.lsu.edu/mod/resource/view.php?id=2862668) (this is a moodle link)
+* [pdf for BIOL7800](https://moodle.lsu.edu/mod/resource/view.php?id=2862828) (this is a moodle link)
 
 ## Other Sources of Information
 
